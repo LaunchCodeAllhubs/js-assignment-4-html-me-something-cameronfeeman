@@ -1,1 +1,24 @@
 /* Write your CSS here! */
+
+html{
+    padding-left: 1%;
+    padding-top: 1%;
+}
+body{
+    margin: 8px;
+    display: block;
+}
+img {
+   margin-left: 2%;
+    height: 600px;
+    width: auto;
+}
+figcaption {
+    margin-left: 2%;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
